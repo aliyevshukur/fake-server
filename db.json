@@ -1,0 +1,95 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Do StepProject",
+      "context": "Do StepProject that Nick uploaded today",
+      "status": true,
+      "color": "rgb(255,242,204)"
+    },
+    {
+      "id": 2,
+      "title": "Do Sport",
+      "context": "Dont forget to do sport for today",
+      "status": true,
+      "color": "rgb(248,206,204)"
+    },
+    {
+      "id": 5,
+      "title": "Chat with girlfriend",
+      "context": "Your girlfriend will wait at 10 o-clock in whatsapp",
+      "status": true,
+      "color": "rgb(213,232,212)"
+    },
+    {
+      "id": 6,
+      "title": "Go Running",
+      "context": "Dont forget to run 15 minutes today dsf sd",
+      "status": false,
+      "color": "rgb(213, 232, 212)"
+    },
+    {
+      "id": 7,
+      "title": "Meet sdf sdf sd",
+      "context": "Meet with friends at park",
+      "status": true,
+      "color": "rgb(255,242,204)"
+    },
+    {
+      "id": 3,
+      "title": "Game",
+      "context": "gfggfgfgfgf",
+      "status": true,
+      "color": "rgb(255,242,204)"
+    },
+    {
+      "id": 8,
+      "title": "Call Mom",
+      "context": "Call mom at night :)",
+      "status": false,
+      "color": "rgb(248,206,204)"
+    },
+    {
+      "id": 9,
+      "title": "Reports",
+      "context": "Make reports for conference",
+      "status": false,
+      "color": "rgb(255, 242, 204)"
+    },
+    {
+      "id": 10,
+      "title": "AAAA",
+      "context": "AAAAA",
+      "status": false,
+      "color": "rgb(213,232,212)"
+    },
+    {
+      "id": 11,
+      "title": "AAAA",
+      "context": "AAAAA",
+      "status": false,
+      "color": "rgb(248,206,204)"
+    },
+    {
+      "id": 12,
+      "title": "Test",
+      "context": "Test",
+      "status": false,
+      "color": "rgb(213,232,212)"
+    },
+    {
+      "id": 13,
+      "title": "AsSA",
+      "context": "SAASA",
+      "status": false,
+      "color": "rgb(213,232,212)"
+    },
+    {
+      "id": 14,
+      "title": "Nurmehemmed",
+      "context": " Nebiyev",
+      "status": false,
+      "color": "rgb(248,206,204)"
+    }
+  ]
+}
